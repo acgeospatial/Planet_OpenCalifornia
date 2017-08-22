@@ -1,6 +1,8 @@
 # Planet_OpenCalifornia
 Series of Posts/Scripts on using data from Open California dataset by Planet
 
+Blog post detailing process and description 
+http://www.acgeospatial.co.uk/blog/pan-sharpening-sentinel-2-with-planet-data/
 
 Gdal to sharpen
 Raster files cover the SAME area!
