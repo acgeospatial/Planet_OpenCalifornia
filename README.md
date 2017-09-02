@@ -18,5 +18,6 @@ Use outputs in https://github.com/acgeospatial/Planet_OpenCalifornia/blob/master
 
 ## Part 2 Using pan sharpened Sentinal 2a to run SVM pixel clusters 
 Blog post detailing SVM on pixel clusters
+http://www.acgeospatial.co.uk/blog/svm-on-recognizing-pixel-clusters/
 
 [ML_planet.py](https://github.com/acgeospatial/Planet_OpenCalifornia/blob/master/ML_planet.py)
