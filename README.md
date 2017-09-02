@@ -19,4 +19,4 @@ Use outputs in https://github.com/acgeospatial/Planet_OpenCalifornia/blob/master
 ## Part 2 Using pan sharpened Sentinal 2a to run SVM pixel clusters 
 Blog post detailing SVM on pixel clusters
 
-[demo3.py](https://github.com/acgeospatial/beginners_sat_openCV/blob/master/demo3.py)
+[ML_planet.py](https://github.com/acgeospatial/Planet_OpenCalifornia/blob/master/ML_planet.py)
