@@ -1,7 +1,11 @@
 # Planet_OpenCalifornia
 Series of Posts/Scripts on using data from Open California dataset by Planet
 
-## Part 1 Pan Sharpening Sentinel 2a data with Planet
+## Part 1 Open California dataset
+
+http://www.acgeospatial.co.uk/blog/open-california-data-comparison/
+
+## Part 2 Pan Sharpening Sentinel 2a data with Planet
 Blog post detailing process and description 
 http://www.acgeospatial.co.uk/blog/pan-sharpening-sentinel-2-with-planet-data/
 
@@ -19,7 +23,7 @@ repeat from Red and Green
 Use outputs in [median_sharpen.py](https://github.com/acgeospatial/Planet_OpenCalifornia/blob/master/median_sharpen.py)
 
 
-## Part 2 Using pan sharpened Sentinal 2a to run SVM pixel clusters 
+## Part 3 Using pan sharpened Sentinal 2a to run SVM pixel clusters 
 Blog post detailing SVM on pixel clusters
 http://www.acgeospatial.co.uk/blog/svm-on-recognizing-pixel-clusters/
 
