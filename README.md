@@ -24,4 +24,4 @@ http://www.acgeospatial.co.uk/blog/svm-on-recognizing-pixel-clusters/
 
 ![alt tag](http://www.acgeospatial.co.uk/wp-content/uploads/2017/08/01_title-1.jpg)
 
-[ML_planet.py](https://github.com/acgeospatial/Planet_OpenCalifornia/blob/master/ML_planet.py)
+Project code is here [ML_planet.py](https://github.com/acgeospatial/Planet_OpenCalifornia/blob/master/ML_planet.py)
