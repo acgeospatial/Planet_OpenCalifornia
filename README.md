@@ -35,4 +35,4 @@ http://www.acgeospatial.co.uk/blog/svm-on-recognizing-pixel-clusters/
 
 Project code is here [ML_planet.py](https://github.com/acgeospatial/Planet_OpenCalifornia/blob/master/ML_planet.py)
 
-Connect/contact @map_andrew
+Connect/contact [@map_andrew](https://www.twitter.com/map_andrew)
