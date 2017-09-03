@@ -23,7 +23,7 @@ import os
 import re
 import pandas as pd
 ### path to data containing the labels for points
-file = "D:/los_angeles/target_ids_2.csv"
+file = "../file_in.csv"
 ## read in the csv using pandas and create list
 df = pd.read_csv(file)
 flat_list = df['id'].tolist()
