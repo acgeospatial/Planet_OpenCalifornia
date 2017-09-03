@@ -16,7 +16,8 @@ gdal_pansharpen -w 0.52 -w 0.25 -w 0.23 -co PHOTOMETRIC=RGB blue_band_planet.tif
 
 repeat from Red and Green
 
-Use outputs in https://github.com/acgeospatial/Planet_OpenCalifornia/blob/master/median_sharpen.py
+Use outputs in [median_sharpen.py](https://github.com/acgeospatial/Planet_OpenCalifornia/blob/master/median_sharpen.py)
+
 
 ## Part 2 Using pan sharpened Sentinal 2a to run SVM pixel clusters 
 Blog post detailing SVM on pixel clusters
