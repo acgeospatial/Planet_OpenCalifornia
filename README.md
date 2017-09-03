@@ -5,6 +5,8 @@ Series of Posts/Scripts on using data from Open California dataset by Planet
 Blog post detailing process and description 
 http://www.acgeospatial.co.uk/blog/pan-sharpening-sentinel-2-with-planet-data/
 
+![alt tag](http://www.acgeospatial.co.uk/wp-content/uploads/2017/08/01_title.jpg)
+
 Gdal to sharpen
 Raster files cover the SAME area!
 blue_band_planet.tif = clipped blue band from Planet
@@ -19,5 +21,7 @@ Use outputs in https://github.com/acgeospatial/Planet_OpenCalifornia/blob/master
 ## Part 2 Using pan sharpened Sentinal 2a to run SVM pixel clusters 
 Blog post detailing SVM on pixel clusters
 http://www.acgeospatial.co.uk/blog/svm-on-recognizing-pixel-clusters/
+
+![alt tag](http://www.acgeospatial.co.uk/wp-content/uploads/2017/08/01_title-1.jpg)
 
 [ML_planet.py](https://github.com/acgeospatial/Planet_OpenCalifornia/blob/master/ML_planet.py)
