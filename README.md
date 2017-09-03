@@ -1,9 +1,11 @@
 # Planet_OpenCalifornia
 Series of Posts/Scripts on using data from Open California dataset by Planet
 
+These posts were written Summer/Autumn 2017, depending on when you access the data screen shots may have changed and websites updated.
+
 ## Part 1 Open California dataset
 
-http://www.acgeospatial.co.uk/blog/open-california-data-comparison/
+Blog post on the Open California dataset and comparison of sensors http://www.acgeospatial.co.uk/blog/open-california-data-comparison/
 
 ![alt tag](http://www.acgeospatial.co.uk/wp-content/uploads/2017/07/01_Planet-768x384.jpg)
 
@@ -32,3 +34,5 @@ http://www.acgeospatial.co.uk/blog/svm-on-recognizing-pixel-clusters/
 ![alt tag](http://www.acgeospatial.co.uk/wp-content/uploads/2017/08/01_title-1.jpg)
 
 Project code is here [ML_planet.py](https://github.com/acgeospatial/Planet_OpenCalifornia/blob/master/ML_planet.py)
+
+Connect/contact @map_andrew
