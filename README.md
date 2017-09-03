@@ -5,6 +5,8 @@ Series of Posts/Scripts on using data from Open California dataset by Planet
 
 http://www.acgeospatial.co.uk/blog/open-california-data-comparison/
 
+![alt tag](http://www.acgeospatial.co.uk/wp-content/uploads/2017/07/01_Planet-768x384.jpg)
+
 ## Part 2 Pan Sharpening Sentinel 2a data with Planet
 Blog post detailing process and description 
 http://www.acgeospatial.co.uk/blog/pan-sharpening-sentinel-2-with-planet-data/
