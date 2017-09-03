@@ -53,6 +53,7 @@ TwoDim_dataset = np.array(data).reshape(dataset_size,-1)
 clf=svm.SVC(gamma=0.0001, C=100)
 
 ## You could use RandomForestClassifier or any other ensemble method, will need import at top
+## update 3rd Sept 2017 - I have found using RandomForestClassifer to be a significant improvement
 #clf = RandomForestClassifier(n_estimators=500)
 
 ## the size of the data (everything minus the last 10 records)
