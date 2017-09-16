@@ -35,4 +35,10 @@ http://www.acgeospatial.co.uk/blog/svm-on-recognizing-pixel-clusters/
 
 Project code is here [ML_planet.py](https://github.com/acgeospatial/Planet_OpenCalifornia/blob/master/ML_planet.py)
 
+## Part 4 Identifying buildings using Monteverdi software
+http://www.acgeospatial.co.uk/blog/buildings-monteverdi-software/
+
+![alt tag](http://www.acgeospatial.co.uk/wp-content/uploads/2017/09/buildings_vector-768x570.jpg)
+
+
 Connect/contact [@map_andrew](https://www.twitter.com/map_andrew)
