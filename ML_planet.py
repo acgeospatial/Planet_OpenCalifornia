@@ -87,4 +87,4 @@ for i in range(0,10):
 	plt.annotate(sucess, (0,0), (0, -20), xycoords='axes fraction', textcoords='offset points', va='top')
 	plt.show()
 	
-print "out of 10 samples " + str(count) + " were correct"
+print ("out of 10 samples " + str(count) + " were correct")
